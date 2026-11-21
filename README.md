@@ -1,1 +1,1 @@
-# Capri-Widget-IA-Xompanion
+# Capri-Widget-IA-Companion
